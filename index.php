@@ -43,7 +43,7 @@ echo '<img src=".\img\boton.png" style="width: 50%">';
 echo '</a>';
 echo '</div>';
 echo '<footer>';
-echo 'A&A Games 2021 | Todos los Derechos Reservados';
+echo 'A&A Games 2021 | Todos los Derechos Reservados | A&Agames@gmail.com';
 echo '</footer>';
 echo '</body>';
 echo '</html>';
